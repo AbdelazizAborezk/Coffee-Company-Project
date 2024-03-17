@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="coffee"
+  DTS:DTSID="{E015550E-CB4E-4F7A-9C79-56EB5563902D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=coffee;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-COFFEE_ETL-{E015550E-CB4E-4F7A-9C79-56EB5563902D}LocalHost.coffee;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

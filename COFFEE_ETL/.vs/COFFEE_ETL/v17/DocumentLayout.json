@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1881363-3CA7-46B4-8483-D367AE9400F8}|COFFEE_ETL.dtproj|E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\SALES_FACT.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B1881363-3CA7-46B4-8483-D367AE9400F8}|COFFEE_ETL.dtproj|solutionrelative:SALES_FACT.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1881363-3CA7-46B4-8483-D367AE9400F8}|COFFEE_ETL.dtproj|E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\SALES_OUTLET_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B1881363-3CA7-46B4-8483-D367AE9400F8}|COFFEE_ETL.dtproj|solutionrelative:SALES_OUTLET_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1881363-3CA7-46B4-8483-D367AE9400F8}|COFFEE_ETL.dtproj|E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\PRODUCT_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B1881363-3CA7-46B4-8483-D367AE9400F8}|COFFEE_ETL.dtproj|solutionrelative:PRODUCT_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1881363-3CA7-46B4-8483-D367AE9400F8}|COFFEE_ETL.dtproj|E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\STAFF_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B1881363-3CA7-46B4-8483-D367AE9400F8}|COFFEE_ETL.dtproj|solutionrelative:STAFF_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1881363-3CA7-46B4-8483-D367AE9400F8}|COFFEE_ETL.dtproj|E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\CUSTOMER_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B1881363-3CA7-46B4-8483-D367AE9400F8}|COFFEE_ETL.dtproj|solutionrelative:CUSTOMER_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PRODUCT_DIM.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\PRODUCT_DIM.dtsx",
+              "RelativeDocumentMoniker": "PRODUCT_DIM.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\PRODUCT_DIM.dtsx [Design]",
+              "RelativeToolTip": "PRODUCT_DIM.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-17T18:32:39.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SALES_OUTLET_DIM.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\SALES_OUTLET_DIM.dtsx",
+              "RelativeDocumentMoniker": "SALES_OUTLET_DIM.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\SALES_OUTLET_DIM.dtsx [Design]",
+              "RelativeToolTip": "SALES_OUTLET_DIM.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-17T19:17:27.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SALES_FACT.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\SALES_FACT.dtsx",
+              "RelativeDocumentMoniker": "SALES_FACT.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\SALES_FACT.dtsx [Design]",
+              "RelativeToolTip": "SALES_FACT.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-17T19:22:44.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CUSTOMER_DIM.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\CUSTOMER_DIM.dtsx",
+              "RelativeDocumentMoniker": "CUSTOMER_DIM.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\CUSTOMER_DIM.dtsx [Design]",
+              "RelativeToolTip": "CUSTOMER_DIM.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-17T19:04:51.65Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "STAFF_DIM.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\STAFF_DIM.dtsx",
+              "RelativeDocumentMoniker": "STAFF_DIM.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\20-Freelancing Job\\COFFEE_ETL\\STAFF_DIM.dtsx [Design]",
+              "RelativeToolTip": "STAFF_DIM.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-17T19:12:04.95Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
